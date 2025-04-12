@@ -36,7 +36,7 @@ module.exports = {
         const start = 0;
         const currentList = formattedList.slice(start, start + 5);
 
-        const message = `╭─╮\n│𝗹𝗶𝘀𝘁 𝗼𝗳 𝗧𝗪𝗜𝗡𝗞𝗟𝗘 𝗰𝗵𝗮𝘁𝘀🐣🎀:\n${currentList.join(
+        const message = `╭─╮\n│𝗹𝗶𝘀𝘁 𝗼𝗳 𝙃ō𝙩𝙖𝙧ō 𝙊𝙧𝙚𝙠𝙞🕸️ 𝗰𝗵𝗮𝘁𝘀:\n${currentList.join(
           "\n"
         )}\n╰───────────ꔪ`;
 
