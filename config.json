@@ -18,14 +18,14 @@
   },
   "adminBot": [
     "61559427406776",
-    ""
+    "61575817487660"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝙃ō𝙩𝙖𝙧ō 𝙊𝙧𝙚𝙠𝙞🕸️",
+  "nickNameBot": "ᴀɴᴏɴʏᴍᴏᴜs",
   "prefix": "-",
   "database": {
     "type": "sqlite",
